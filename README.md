@@ -5,3 +5,7 @@
 
 ## a2
 ![a2](a2_merge.png)
+
+## a3
+![a3](a3_conflict.png)
+
